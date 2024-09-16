@@ -1,6 +1,8 @@
 <h1>Hi, I'm Jessica! <br/>
 
 <h2> Software Development Projects:</h2>
+
+<p>Made a calculator in Unity using C# scripts and a Model-View-Controller pattern! See pinned projects.</p>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
