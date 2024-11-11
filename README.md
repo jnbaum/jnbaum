@@ -1,8 +1,7 @@
 <h1>Hi, I'm Jessica! <br/>
 
 <h2> Software Development Projects:</h2>
-
-<p>Made a calculator in Unity using C# scripts and a Model-View-Controller pattern! See pinned projects.</p>
+<!--<p>Made a calculator in Unity using C# scripts and a Model-View-Controller pattern! See pinned projects.</p>-->
 
 <p>Lead a team in developing a simple game to model UI best practices! See pinned projects.</p>
 <!--
