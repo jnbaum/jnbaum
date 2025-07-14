@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Jessica — Cloud DevOps Engineer | Scrum Master | Software Engineer
+# 👋 Hi, I'm Jessica 
+Cloud DevOps Engineer | Scrum Master | Software Engineer
 
 🚀 I'm a Cloud DevOps Engineer passionate about deploying reliable, scalable applications using AWS, Docker, GitHub Actions, and Infrastructure as Code.
 
