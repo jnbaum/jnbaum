@@ -13,8 +13,8 @@ Cloud DevOps Engineer | Scrum Master | Software Engineer
 - **Agile:** Scrum, Jira, Confluence, Agile ceremonies
 
 💼 **Projects:**
-- 🔗 [Rovaly]([https://github.com/yourusername/rovaly](https://github.com/jnbaum/SWE6733-Group-1) — Full-stack adventure-matching app deployed on AWS with CI/CD, Docker, and Agile workflow
-- 📦 [GRA Inbox Simulator]([https://github.com/yourusername/gra-simulator](https://github.com/NMurphyGSU/InboxSimulator) — GDScript-based training simulator using JSON-driven logic and dynamic UIs
+- 🔗 [Rovaly](https://github.com/jnbaum/SWE6733-Group-1) — Full-stack adventure-matching app deployed on AWS with CI/CD, Docker, and Agile workflow
+- 📦 [GRA Inbox Simulator](https://github.com/NMurphyGSU/InboxSimulator) — GDScript-based training simulator using JSON-driven logic and dynamic UIs
 - 💡 More in progress...
 
 📫 **Let’s Connect:**
