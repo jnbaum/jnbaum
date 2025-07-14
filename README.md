@@ -1,50 +1,25 @@
-<h1>Hi, I'm Jessica! <br/>
+# 👋 Hi, I'm Jessica — Cloud DevOps Engineer | Scrum Master | Software Engineer
 
-<h2> Software Development Projects:</h2>
-<!--<p>Made a calculator in Unity using C# scripts and a Model-View-Controller pattern! See pinned projects.</p>-->
+🚀 I'm a Cloud DevOps Engineer passionate about deploying reliable, scalable applications using AWS, Docker, GitHub Actions, and Infrastructure as Code.
 
-<p>Lead a team in developing a simple game to model UI best practices! See pinned projects.</p>
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+🎓 I'm finishing my M.S. in Software Engineering at Kennesaw State University, where I served as Scrum Master and DevOps lead on multiple full-stack projects.
 
-<!--
-<h2> 🤳 Connect with me:</h2>
+🛠️ **What I Work With:**
+- **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, EBS)
+- **CI/CD Tools:** GitHub Actions, Git, GitHub CLI
+- **Containerization:** Docker (learning)
+- **IaC & Scripting:** YAML, JSON, Bash, PowerShell, Terraform (learning)
+- **Agile:** Scrum, Jira, Confluence, Agile ceremonies
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+💼 **Projects:**
+- 🔗 [Rovaly]([https://github.com/yourusername/rovaly](https://github.com/jnbaum/SWE6733-Group-1)) — Full-stack adventure-matching app deployed on AWS with CI/CD, Docker, and Agile workflow
+- 📦 [GRA Inbox Simulator]([https://github.com/yourusername/gra-simulator](https://github.com/NMurphyGSU/InboxSimulator)) — GDScript-based training simulator using JSON-driven logic and dynamic UIs
+- 💡 More in progress...
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
--->
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Let’s Connect:**
+- 🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/jbaum1207/))
+- 📧 jessica.n.baum@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 *Currently seeking Cloud DevOps or Cloud Support Engineer roles. Reach out if you’re building cloud infrastructure, modern CI/CD pipelines, or just want to talk cloud tech!*
