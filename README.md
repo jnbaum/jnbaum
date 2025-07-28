@@ -3,13 +3,13 @@ Cloud DevOps Engineer | Scrum Master | Software Engineer
 
 🚀 I'm a Cloud DevOps Engineer passionate about deploying reliable, scalable applications using AWS, Docker, GitHub Actions, and Infrastructure as Code.
 
-🎓 I'm finishing my M.S. in Software Engineering at Kennesaw State University, where I served as Scrum Master and DevOps lead on multiple full-stack projects.
+🎓 I received my M.S. in Software Engineering at Kennesaw State University in July 2025, where I served as Scrum Master and DevOps lead on multiple full-stack projects.
 
 🛠️ **What I Work With:**
 - **Cloud Platforms:** AWS (EC2, S3, IAM, VPC, EBS)
 - **CI/CD Tools:** GitHub Actions, Git, GitHub CLI
 - **Containerization:** Docker (learning)
-- **IaC & Scripting:** YAML, JSON, Bash, PowerShell, Terraform (learning)
+- **IaC & Scripting:** YAML, JSON, Bash, PowerShell
 - **Agile:** Scrum, Jira, Confluence, Agile ceremonies
 
 💼 **Projects:**
