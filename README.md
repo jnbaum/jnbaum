@@ -14,7 +14,7 @@ Cloud DevOps Engineer | Scrum Master | Software Engineer
 - Agile: Scrum, Jira, Confluence, collaborative workflows
 
 ## 🛠️ **What I Am Working On:**
-1. [Raspberry Pi Dashboard:](https://github.com/jnbaum/learningDashboard) building a modular hardware dashboard using GPIO inputs and sensor data.
+1. [Raspberry Pi Dashboard:](https://github.com/jnbaum/learningDashboard) building a modular hardware dashboard using GPIO inputs and sensor data:
     - JavaScript Integration: pulling data from the Pi, handling events, and wiring logic with lightweight JS.
     - SvelteKit Frontend: creating small UI widgets driven by Svelte stores and component architecture.
     - Enclosures & Hardware: experimenting with 3D-printed cases and basic electronics for a clean setup.
