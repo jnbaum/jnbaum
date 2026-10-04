@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Jessica 
-Cloud DevOps Engineer | Scrum Master | Software Engineer
 
-🚀 I'm an aspiring Cloud DevOps Engineer passionate about deploying reliable, scalable applications using AWS, Docker, GitHub Actions, and Infrastructure as Code.
+🚀 I'm an aspiring DevOps Engineer who is excited about deploying reliable, scalable applications using AWS, Docker, GitHub Actions, and Infrastructure as Code.
 
 🎓 I received my M.S. in Software Engineering at Kennesaw State University in July 2025, where I served as Scrum Master and DevOps lead on multiple full-stack projects.
 
 ## 🛠️ **What I Work With:**
 - Cloud: AWS (EC2, S3, IAM, VPC, EBS, basic networking & security groups)
-- CI/CD: GitHub Actions, Git, GitHub CLI (branching, workflows, automation)
+- CI/CD: GitHub Actions, Git, GitHub CLI (branching, workflows, automation), Jenkins
 - Containers: Docker (images, Dockerfiles, local dev environments)
 - Scripting & IaC: Bash, PowerShell, YAML, JSON (automation + config management)
 - APIs & Dev: REST APIs, Linux, Java fundamentals
